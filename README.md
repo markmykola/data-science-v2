@@ -1,6 +1,6 @@
 ## Data Science Projects
 
-# This repository contains educational projects focused on Data Science, Machine Learning, and statistical data analysis using Python. The notebooks cover data exploration, statistical methods, visualization, mathematical computations, and linear regression modeling.
+This repository contains educational projects focused on Data Science, Machine Learning, and statistical data analysis using Python. The notebooks cover data exploration, statistical methods, visualization, mathematical computations, and linear regression modeling.
 
 - Technologies: Python, Pandas, NumPy, TensorFlow, Scikit-learn, Matplotlib, Seaborn, and SciPy.
 
